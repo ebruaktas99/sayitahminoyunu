@@ -1,0 +1,10 @@
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\bin\Debug\EbruAktasIleSayiTahminOyunu.exe.config
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\bin\Debug\EbruAktasIleSayiTahminOyunu.exe
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\bin\Debug\EbruAktasIleSayiTahminOyunu.pdb
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\obj\Debug\EbruAktasIleSayiTahminOyunu.csprojAssemblyReference.cache
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\obj\Debug\EbruAktasIleSayiTahminOyunu.Form1.resources
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\obj\Debug\EbruAktasIleSayiTahminOyunu.Properties.Resources.resources
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\obj\Debug\EbruAktasIleSayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\obj\Debug\EbruAktasIleSayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\obj\Debug\EbruAktasIleSayiTahminOyunu.exe
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\EbruAktasIleSayiTahminOyunu\EbruAktasIleSayiTahminOyunu\obj\Debug\EbruAktasIleSayiTahminOyunu.pdb
